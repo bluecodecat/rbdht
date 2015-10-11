@@ -1,5 +1,5 @@
 ## rbdht
-A DHT crawler, is not quite based on Kademlia, written by Ruby, the code is very very simple.
+A DHT crawler, was written in Ruby, the code is very very simple.
 
 ## Dependencies
 ```bash
