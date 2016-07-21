@@ -1,5 +1,5 @@
 ## rbdht
-A DHT crawler, was written in Ruby, the code is very very simple.
+A DHT crawler, written in Ruby, the code is very very simple.
 
 ## Dependencies
 ```bash
@@ -14,8 +14,8 @@ ruby rbdht.rb
 ```
 
 ## rbdht for NodeJS and Python
-[nodeDHT](https://github.com/old-woman/nodeDHT)
-[simDHT](https://github.com/old-woman/simDHT)
+[nodeDHT](https://github.com/dontcontactme/nodeDHT)
+[simDHT](https://github.com/dontcontactme/simDHT)
 
 ## p2pspider
-You may be interested in [p2pspider(DHT Spider + BT Client = P2P Spider)](https://github.com/Fuck-You-GFW/p2pspider).
+You may be interested in [p2pspider(DHT Spider + BT Client = P2P Spider)](https://github.com/dontcontactme/p2pspider).
