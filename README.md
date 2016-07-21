@@ -13,7 +13,7 @@ bundle install
 ruby rbdht.rb
 ```
 
-## rbdht for NodeJS and Python
+## rbdht for Node.js and Python
 [nodeDHT](https://github.com/dontcontactme/nodeDHT)
 [simDHT](https://github.com/dontcontactme/simDHT)
 
